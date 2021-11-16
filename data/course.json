@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "264ff47b-0913-ee36-57e1-886c1db582bb",
+      "36e243f7-b18e-3ba2-e797-2f1448d8643c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Chemical and Biological Reaction Engineering",
+  "course_description": "This course applies the concepts of reaction rate, stoichiometry and equilibrium to the analysis of chemical and biological reacting systems, derivation of rate expressions from reaction mechanisms and equilibrium or steady state assumptions, design of chemical and biochemical reactors via synthesis of chemical kinetics, transport phenomena, and mass and energy balances. Topics covered include: chemical/biochemical pathways; enzymatic, pathway, and cell growth kinetics; batch, plug flow and well-stirred reactors for chemical reactions and cultivations of microorganisms and mammalian cells; heterogeneous and enzymatic catalysis; heat and mass transport in reactors, including diffusion to and within catalyst particles and cells or immobilized enzymes.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.37",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Activity Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
